@@ -1,0 +1,14 @@
+.--leftside{
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+
+.--instagram img {
+    width: 5rem;
+}
+
+.--all-left-first {
+    display: flex;
+    gap: 10px;
+    margin-top:40px ;
+}
